@@ -1,0 +1,11 @@
+127.0.0.1 - - [09/Mar/2019:10:45:41 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [09/Mar/2019:10:47:40 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [09/Mar/2019:10:50:46 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [09/Mar/2019:10:53:48 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [09/Mar/2019:10:55:22 +0530] "GET /kartikey2/fashion_store-web/web/index.html HTTP/1.1" 404 1128
+0:0:0:0:0:0:0:1 - - [09/Mar/2019:10:55:23 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [09/Mar/2019:10:55:37 +0530] "GET /kartikey2/fashion_store-web/web/index.html HTTP/1.1" 404 1128
+0:0:0:0:0:0:0:1 - - [09/Mar/2019:10:55:55 +0530] "GET /asssigmentjsp2/index.jsp HTTP/1.1" 404 1102
+0:0:0:0:0:0:0:1 - - [09/Mar/2019:10:56:25 +0530] "GET /asssigmentjsp2/index.jsp HTTP/1.1" 404 1102
+0:0:0:0:0:0:0:1 - - [09/Mar/2019:10:56:41 +0530] "GET /asssigmentjsp2/index.jsp HTTP/1.1" 404 1102
+0:0:0:0:0:0:0:1 - - [09/Mar/2019:10:57:05 +0530] "GET /asssigmentjsp2/index.jsp HTTP/1.1" 404 1102

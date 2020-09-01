@@ -1,0 +1,37 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+     <%@ page import="java.sql.*" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+ <% 
+      String a=request.getParameter("i");
+      
+     out.println(a);
+     
+     Class.forName("com.mysql.jdbc.Driver");
+
+     Connection co = DriverManager.getConnection
+     		("jdbc:mysql://localhost/cakes?user=root&password=stark");
+
+     PreparedStatement ps = co.prepareStatement
+     		("select * from cake1 where id = ?");
+     
+     ps.setString(1, a);
+
+     ResultSet rs = ps.executeQuery();
+     
+     rs.next();
+
+     out.println("name="+rs.getString(2)+" price="+rs.getFloat(3)+" desc="+rs.getString(4));
+		/* String p=rs2.getString(2);
+		String q=rs2.getString(2);
+		String r=rs2.getString(4); */
+	 co.close();
+      %>
+</body>
+</html>

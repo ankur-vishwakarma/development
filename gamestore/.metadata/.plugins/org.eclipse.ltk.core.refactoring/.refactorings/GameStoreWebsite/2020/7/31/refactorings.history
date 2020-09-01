@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;newGame&apos; in &apos;com.gamestore.dao.GameDAOTest.testUpdateGame()&apos; to &apos;existGame&apos;&#x0D;&#x0A;- Original project: &apos;GameStoreWebsite&apos;&#x0D;&#x0A;- Original element: &apos;com.gamestore.dao.GameDAOTest.testUpdateGame().newGame&apos;&#x0D;&#x0A;- Renamed element: &apos;newGame&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;newGame&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/test=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gamestore.dao{GameDAOTest.java[GameDAOTest~testUpdateGame@newGame!1840!1865!1845!1851!QGame;!0!false" name="existGame" references="true" stamp="1596103074970" version="1.0"/>
+</session>

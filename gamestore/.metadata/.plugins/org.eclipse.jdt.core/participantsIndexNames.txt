@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+D:\studies\coding\WEB DEVELOPMENT\PROJECTS\bookstoreu\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1615433450.index
+\GameStoreWebsite\src
+D:\studies\coding\WEB DEVELOPMENT\PROJECTS\bookstoreu\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2472573380.index
+\GameStoreWebsite\src
+D:\studies\coding\WEB DEVELOPMENT\PROJECTS\bookstoreu\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1186187459.index
+\GameStoreWebsite\src
+D:\studies\coding\WEB DEVELOPMENT\PROJECTS\bookstoreu\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3952264276.index
+\GameStoreWebsite\src
