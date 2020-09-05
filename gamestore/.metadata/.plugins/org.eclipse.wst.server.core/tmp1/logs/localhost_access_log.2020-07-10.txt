@@ -1,4 +1,0 @@
-0:0:0:0:0:0:0:1 - - [10/Jul/2020:19:32:53 +0530] "GET /GameStoreWebsite/admin/list_users HTTP/1.1" 200 2730
-0:0:0:0:0:0:0:1 - - [10/Jul/2020:19:32:53 +0530] "GET /GameStoreWebsite/images/GamestoreAdminLogo.png HTTP/1.1" 304 -
-0:0:0:0:0:0:0:1 - - [10/Jul/2020:19:33:02 +0530] "GET /GameStoreWebsite/ HTTP/1.1" 200 792
-0:0:0:0:0:0:0:1 - - [10/Jul/2020:19:33:02 +0530] "GET /GameStoreWebsite/images/GamestoreLogo.png HTTP/1.1" 200 4048
